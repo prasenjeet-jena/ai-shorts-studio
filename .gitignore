@@ -1,0 +1,85 @@
+# ==============================================================================
+# AI Shorts Generator - Repository Hygiene & Exclusions
+# ==============================================================================
+
+# Python Virtual Environments & Packages
+.venv/
+venv/
+env/
+ENV/
+build/
+dist/
+*.egg-info/
+
+# Python Bytecode & Cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+.coverage
+htmlcov/
+.mypy_cache/
+.ruff_cache/
+
+# Environment Configuration & Local Secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.cert
+*.crt
+*.p12
+*.pfx
+id_rsa*
+
+# Model Weights & Downloaded Checkpoints (Downloaded automatically at runtime)
+storage/models/*
+!storage/models/.gitkeep
+storage/cache/whisper_models/
+*.onnx
+*.pt
+*.bin
+*.safetensors
+*.ckpt
+*.pth
+
+# Media Storage, Temporary Processing, and Output Videos
+output/*
+!output/.gitkeep
+storage/temp/*
+!storage/temp/.gitkeep
+storage/cache/*
+!storage/cache/.gitkeep
+storage/runs/*
+!storage/runs/.gitkeep
+storage/logs/*
+!storage/logs/.gitkeep
+storage/verification/*
+!storage/verification/.gitkeep
+
+# Generated Procedural Assets & Render Intermediates (Synthesized on-device)
+storage/assets/anim/*.mov
+storage/assets/anim/*.png
+storage/assets/anim/temp_*
+storage/assets/audio/*.wav
+storage/assets/reactions/*.mov
+storage/assets/reactions/temp_*
+storage/assets/emojis/*.png
+!storage/assets/**/.gitkeep
+
+# Operating System & IDE Artifacts
+.DS_Store
+**/.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Node.js (yt-dlp challenge helper)
+node_modules/
+npm-debug.log*
+.pnpm-debug.log*

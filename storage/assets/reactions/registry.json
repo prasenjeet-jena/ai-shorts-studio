@@ -1,0 +1,142 @@
+{
+  "reaction_buffering_brain": {
+    "asset_id": "reaction_buffering_brain",
+    "name": "Buffering Thoughts & Awkward Loading",
+    "category": "confusion",
+    "source": "procedural_fai",
+    "license": "CC0-1.0 (Public Domain)",
+    "allowed_usage": "Commercial & Non-Commercial (Unrestricted FOSS)",
+    "duration": 1.2,
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "tags": [
+      "confusion",
+      "awkward",
+      "pause",
+      "buffering",
+      "thinking",
+      "disbelief"
+    ],
+    "has_audio": true,
+    "audio_cue": "record_scratch",
+    "attribution": "None required (Synthesized on-device)",
+    "file_path": "storage/assets/reactions/reaction_buffering_brain.mov"
+  },
+  "reaction_shock_eyes": {
+    "asset_id": "reaction_shock_eyes",
+    "name": "Cartoon Shock Eyes & Jaw Drop",
+    "category": "surprise",
+    "source": "procedural_fai",
+    "license": "CC0-1.0 (Public Domain)",
+    "allowed_usage": "Commercial & Non-Commercial (Unrestricted FOSS)",
+    "duration": 1.0,
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "tags": [
+      "shock",
+      "surprise",
+      "eyes_pop",
+      "disbelief",
+      "scream"
+    ],
+    "has_audio": true,
+    "audio_cue": "dramatic_hit",
+    "attribution": "None required (Synthesized on-device)",
+    "file_path": "storage/assets/reactions/reaction_shock_eyes.mov"
+  },
+  "reaction_celebration_confetti": {
+    "asset_id": "reaction_celebration_confetti",
+    "name": "Celebration Confetti & Gold Stars",
+    "category": "celebration",
+    "source": "procedural_fai",
+    "license": "CC0-1.0 (Public Domain)",
+    "allowed_usage": "Commercial & Non-Commercial (Unrestricted FOSS)",
+    "duration": 1.2,
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "tags": [
+      "win",
+      "celebration",
+      "money",
+      "prize",
+      "confetti"
+    ],
+    "has_audio": true,
+    "audio_cue": "comic_pop",
+    "attribution": "None required (Synthesized on-device)",
+    "file_path": "storage/assets/reactions/reaction_celebration_confetti.mov"
+  },
+  "reaction_dramatic_iris": {
+    "asset_id": "reaction_dramatic_iris",
+    "name": "Cartoon Spotlight Iris In/Out",
+    "category": "anticipation",
+    "source": "procedural_fai",
+    "license": "CC0-1.0 (Public Domain)",
+    "allowed_usage": "Commercial & Non-Commercial (Unrestricted FOSS)",
+    "duration": 1.0,
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "tags": [
+      "anticipation",
+      "dramatic",
+      "spotlight",
+      "focus",
+      "reveal"
+    ],
+    "has_audio": true,
+    "audio_cue": "comedic_sting",
+    "attribution": "None required (Synthesized on-device)",
+    "file_path": "storage/assets/reactions/reaction_dramatic_iris.mov"
+  },
+  "reaction_facepalm": {
+    "asset_id": "reaction_facepalm",
+    "name": "Animated Cartoon Facepalm Slap",
+    "category": "facepalm",
+    "source": "procedural_fai",
+    "license": "CC0-1.0 (Public Domain)",
+    "allowed_usage": "Commercial & Non-Commercial (Unrestricted FOSS)",
+    "duration": 1.2,
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "tags": [
+      "facepalm",
+      "disbelief",
+      "embarrassment",
+      "failure",
+      "smh"
+    ],
+    "has_audio": true,
+    "audio_cue": "comedic_sting",
+    "attribution": "None required (Synthesized on-device)",
+    "file_path": "storage/assets/reactions/reaction_facepalm.mov"
+  },
+  "reaction_awkward_silence": {
+    "asset_id": "reaction_awkward_silence",
+    "name": "Awkward Double Blink & Ellipsis",
+    "category": "awkwardness",
+    "source": "procedural_fai",
+    "license": "CC0-1.0 (Public Domain)",
+    "allowed_usage": "Commercial & Non-Commercial (Unrestricted FOSS)",
+    "duration": 1.4,
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "tags": [
+      "awkward",
+      "silence",
+      "pause",
+      "blink",
+      "crickets",
+      "confusion"
+    ],
+    "has_audio": true,
+    "audio_cue": "record_scratch",
+    "attribution": "None required (Synthesized on-device)",
+    "file_path": "storage/assets/reactions/reaction_awkward_silence.mov"
+  }
+}
