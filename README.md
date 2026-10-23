@@ -84,7 +84,7 @@ flowchart TD
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/<your-username>/ai-shorts-generator.git
+git clone https://github.com/prasenjeet-jena/ai-shorts-generator.git
 cd ai-shorts-generator
 ```
 
