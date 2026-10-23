@@ -46,8 +46,14 @@ storage/cache/whisper_models/
 *.pth
 
 # Media Storage, Temporary Processing, and Output Videos
+# Ignore generated outputs by default
 output/*
 !output/.gitkeep
+
+# Allow selected demo videos
+!output/demo/
+output/demo/*
+!output/demo/*.mp4
 storage/temp/*
 !storage/temp/.gitkeep
 storage/cache/*
