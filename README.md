@@ -6,22 +6,6 @@ Built to be orchestrated either via a single-command CLI or conversationally by 
 
 ---
 
-## 📸 Demo Preview
-
-```
-+------------------------------------------------------------------------+
-|                                                                        |
-|                 [ Add Screenshot / Demo Animation Here ]               |
-|                                                                        |
-|   Recommended: A 9:16 preview or GIF of a rendered Short showing the   |
-|   animated subtitles, visual header badge, and dynamic framing.       |
-|                                                                        |
-+------------------------------------------------------------------------+
-```
-> _Note: Place your demo screenshot or GIF in `docs/images/demo.png` and update the link above. Ensure any demo media uses original, licensed, or public-domain footage._
-
----
-
 ## ⚡ Key Implemented Features
 
 - **100% Local & Free Execution**: Powered entirely on-device by [Faster-Whisper](https://github.com/SYSTRAN/faster-whisper), [OpenCV](https://opencv.org/), [ONNX Runtime](https://onnxruntime.ai/), and [FFmpeg](https://ffmpeg.org/). No OpenAI, ElevenLabs, or AWS cloud bills.
